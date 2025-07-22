@@ -1,0 +1,8 @@
+{
+  "short_name": "Digital Wellbeing",
+  "name": "Digital Wellbeing Desktop",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
